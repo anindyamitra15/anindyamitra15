@@ -8,4 +8,5 @@
 - 📫 How to reach me: anindya15d12m@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <br/>
-<img width="350" height="200" src="https://raw.githubusercontent.com/anindyamitra15/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img align="left" width="350" height="200" src="https://raw.githubusercontent.com/anindyamitra15/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img align="right" width="350" height="200" src="https://raw.githubusercontent.com/anindyamitra15/github-stats/master/generated/languages.svg#gh-dark-mode-only">

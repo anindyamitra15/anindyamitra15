@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Internet of Things
 - 🌱 I’m currently learning React and Springboot
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Electronics, PCBs, Backend Development
-<!-- - 📫 How to reach me: ... -->
+- 💬 Ask me about Electronics, IoT and PCB design
+- 🤔 I’m looking for help with integrating AI on node-js backend 
+- 📫 How to reach me: anindya15d12m@gmail.com
+<!-- - 👯 I’m looking to collaborate on ... -->
 

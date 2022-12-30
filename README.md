@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on Internet of Things
-- 🌱 I’m currently learning React and Springboot
+- 🌱 I’m currently learning React, Angular RxJS and Springboot on Java
+- 💛 I'm interested in Typescript, C/C++, Python
 - 💬 Ask me about Electronics, IoT and PCB design
 - 🤔 I’m looking for help with integrating AI on node-js backend 
 - 📫 How to reach me: anindya15d12m@gmail.com

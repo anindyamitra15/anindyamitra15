@@ -1,7 +1,7 @@
 # Hi there, I am Anindya Kanti Mitra 👋
 
 
-- 👨‍🎓 I'm currently studying VLSI Design at IIESTS
+- 🎓 I'm currently studying VLSI Design at IIESTS
 - 🔭 I have worked on Full Stack Internet of Things - ESP32, Node.JS (Socket.IO), MQTT
 - 🌱 I’m currently learning React, Angular RxJS, and Springboot on Java
 - 💛 I'm interested in Typescript, C/C++, Python
